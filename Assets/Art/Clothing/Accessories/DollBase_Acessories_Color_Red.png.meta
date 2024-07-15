@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 5a0f9be4ecac3e6469b4a0ebaef37fb1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hair1_Red
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3033
+        width: 671
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d750ee592b90a42b54e5fbfcc25cfa
+      internalID: 932057355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes1_Red
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3498
+        width: 276
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af608ceb4b00b4790cb1d110da3189
+      internalID: -207180557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes2_Red
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 3456
+        width: 235
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453a925041c9be45bed391b7a02f3da
+      internalID: 1644460822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes3_Red
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3491
+        width: 281
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd981d427b02e024db4914ec27d1e4c4
+      internalID: 925233416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes4_Red
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3524
+        width: 238
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb656d61a9d9f44902c5805ee0740a
+      internalID: -89958220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earrings1_Red
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3513
+        width: 325
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc059fdea988a349aa18420fe3ea157
+      internalID: 2088196526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nose3_Red
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 3325
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12ced2e903852a418c09429a3681184
+      internalID: -2103852960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earrings2_Red
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3231
+        width: 307
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07371bbbec46b4fa9643a9d1e3f498
+      internalID: -22148668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips4_Red
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 3210
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3b5031c07b2444688c1bfd55c4f845
+      internalID: 1221829054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips1_Red
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 3203
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dd74a21ad85bc42ae184f39238c2fd
+      internalID: 571445980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips2_Red
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3179
+        width: 158
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef64918dd6dbf4c932fcf661d1fe84
+      internalID: 1938942901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips3_Red
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 3180
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe7b837f8382c45a93696e3931a641
+      internalID: 1904118446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Red
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2430
+        width: 408
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e202143a2cf95574b80e01c56de1000e
+      internalID: -414052715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch_Red
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 2731
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6397024599ec7544b03da39d970ed0d
+      internalID: 678366954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair3_Red
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1593
+        width: 402
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f9b605c88e2c94b91858aa2a175988
+      internalID: 189720465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Braclet_Right_Red
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 2121
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aabd09ca5ef9849bee2b29bddf472b
+      internalID: -9336678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Braclet_Left_Red
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2014
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7056bb868ef65694f90bdb8d3bd5e07d
+      internalID: 1537668187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair4_Red
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 231
+        width: 584
+        height: 1182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9992cb40e790c754e8702fdb64f8a9ed
+      internalID: 1060860411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoes_Red
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1379
+        width: 717
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565c844a557bde4190ace93fc064511
+      internalID: -69785578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_Red
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 182
+        width: 830
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85863c824dbdfbc409616a97d64db1a4
+      internalID: -808627375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollBase_Acessories_Color_Red_41
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90dde0d1431281419ed799f3c9174ef
+      internalID: -1041157651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boots_Red: -808627375
+      Braclet_Left_Red: 1537668187
+      Braclet_Right_Red: -9336678
+      DollBase_Acessories_Color_Red_10: -614478944
+      DollBase_Acessories_Color_Red_13: -2110667783
+      DollBase_Acessories_Color_Red_14: 583747076
+      DollBase_Acessories_Color_Red_19: -1398123622
+      DollBase_Acessories_Color_Red_2: -1890724436
+      DollBase_Acessories_Color_Red_21: -967845078
+      DollBase_Acessories_Color_Red_23: -1831187545
+      DollBase_Acessories_Color_Red_24: 373107180
+      DollBase_Acessories_Color_Red_25: 1075467257
+      DollBase_Acessories_Color_Red_29: -661089452
+      DollBase_Acessories_Color_Red_30: 164289045
+      DollBase_Acessories_Color_Red_31: -1208243014
+      DollBase_Acessories_Color_Red_32: -259238973
+      DollBase_Acessories_Color_Red_34: 1589377757
+      DollBase_Acessories_Color_Red_36: -1210271686
+      DollBase_Acessories_Color_Red_38: -2146252753
+      DollBase_Acessories_Color_Red_39: -714664134
+      DollBase_Acessories_Color_Red_4: -949837794
+      DollBase_Acessories_Color_Red_40: -246124112
+      DollBase_Acessories_Color_Red_41: -1041157651
+      DollBase_Acessories_Color_Red_6: 828373314
+      DollBase_Acessories_Color_Red_8: 1131555484
+      Earrings1_Red: 2088196526
+      Earrings2_Red: -22148668
+      Eyes1_Red: -207180557
+      Eyes2_Red: 1644460822
+      Eyes3_Red: 925233416
+      Eyes4_Red: -89958220
+      Hair1_Red: 932057355
+      Hair2_Red: -414052715
+      Hair3_Red: 189720465
+      Hair4_Red: 1060860411
+      Lips1_Red: 571445980
+      Lips2_Red: 1938942901
+      Lips3_Red: 1904118446
+      Lips4_Red: 1221829054
+      Nose3_Red: -2103852960
+      Shoes_Red: -69785578
+      Watch_Red: 678366954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

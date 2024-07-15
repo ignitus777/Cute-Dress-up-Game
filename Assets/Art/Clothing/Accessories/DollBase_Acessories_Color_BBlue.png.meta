@@ -1,0 +1,714 @@
+fileFormatVersion: 2
+guid: 710534a473da60e4da03b7ad1718be17
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hair1_Blue
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3033
+        width: 671
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd21fa9050894b4ea5571d95caa209e
+      internalID: -504644820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes1_Blue
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3498
+        width: 278
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402c99d79bb19d4c833bb2ad1ec8499
+      internalID: -208532915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 3456
+        width: 234
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ff18c1eb3f9b749b424ec0b89302a4
+      internalID: -821368250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes3_Blue
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3491
+        width: 279
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db407a93792ebb4e81c6f51714da6c2
+      internalID: 624822831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes4_Blue
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3524
+        width: 239
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c745d24ffd4c6489a88fbe6544f8e6
+      internalID: -351581479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earrings1_Blue
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 3509
+        width: 329
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e474ed4f2f2fc48a81c2c7e9f38a2d
+      internalID: 133106276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nose3_Blue
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 3325
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3fb356f58e7e44795cb772dec5cf75
+      internalID: 500771520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollBase_Acessories_Color_BBlue_14
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 3373
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf675d4e5d27e4cad8ba52df02849c
+      internalID: 1159397612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earrings2_Blue
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3227
+        width: 311
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78da12e99f8cb314084de922c1c433e9
+      internalID: -517336722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollBase_Acessories_Color_BBlue_16
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3336
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67abe6774f9cb1c4d9597dc98b147aea
+      internalID: -721337173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollBase_Acessories_Color_BBlue_17
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 3345
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ff815dd68030442bb924a414a97d59
+      internalID: -1928175123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lip4_Blue
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 3210
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5824a75ec5ac3143a56e8a6ced01473
+      internalID: -588803074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lip1_Blue
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 3203
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e21d94a1cbd45140b1637e25f2818db
+      internalID: -1355620013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lip2_Blue
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3179
+        width: 158
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109f6b13514333a4aa8e13f20c10c401
+      internalID: -965429974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lip3_Blue
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 3180
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9533d69532573f4dababa0a740a758e
+      internalID: -1207242428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blue
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2430
+        width: 408
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5805d751de057b4b8954a1adb8ca393
+      internalID: 1405449245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch_Blue
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 2731
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a0b34412acad041b64853163c114df
+      internalID: -642215755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollBase_Acessories_Color_BBlue_30
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 2535
+        width: 139
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb5cfa0b257334e926f203ffd1dc80
+      internalID: -50355563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair3_Blue
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1593
+        width: 402
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21a75aaad198af4e80a3bc71c94adfc
+      internalID: -45171285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Braclet_Right_Blue
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 2121
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d7a9c3a0d95e04d9b77886fc71f5df
+      internalID: -755400497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Braclet_Left_Blue
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2014
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f6cd47b168e654ea887c20bfe79c0c
+      internalID: 1630520531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoes_Blue
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1363
+        width: 714
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cea8199ca453548b7ea0531ccbf001
+      internalID: 323793716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair4_Blue
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 228
+        width: 579
+        height: 1185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f965e895474a4a9d8e7a6a4c480c6
+      internalID: 2132401044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_Blue
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 175
+        width: 843
+        height: 981
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da13ca1bbff9844a9e5cc7c3d37f1f2
+      internalID: 554496172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollBase_Acessories_Color_BBlue_48
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f4e8496e88bf344884f321430ae2d5
+      internalID: 956315274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boots_Blue: 554496172
+      Braclet_Left_Blue: 1630520531
+      Braclet_Right_Blue: -755400497
+      DollBase_Acessories_Color_BBlue_11: -100434847
+      DollBase_Acessories_Color_BBlue_13: -941190201
+      DollBase_Acessories_Color_BBlue_14: 1159397612
+      DollBase_Acessories_Color_BBlue_16: -721337173
+      DollBase_Acessories_Color_BBlue_17: -1928175123
+      DollBase_Acessories_Color_BBlue_18: -1061323821
+      DollBase_Acessories_Color_BBlue_19: 561839500
+      DollBase_Acessories_Color_BBlue_2: -864265494
+      DollBase_Acessories_Color_BBlue_20: -1550883044
+      DollBase_Acessories_Color_BBlue_25: 1220029240
+      DollBase_Acessories_Color_BBlue_27: 663798640
+      DollBase_Acessories_Color_BBlue_29: 1776879199
+      DollBase_Acessories_Color_BBlue_30: -50355563
+      DollBase_Acessories_Color_BBlue_31: 1430883499
+      DollBase_Acessories_Color_BBlue_32: -896301237
+      DollBase_Acessories_Color_BBlue_36: -1250533653
+      DollBase_Acessories_Color_BBlue_37: 1947488564
+      DollBase_Acessories_Color_BBlue_38: 1270179626
+      DollBase_Acessories_Color_BBlue_4: -658182414
+      DollBase_Acessories_Color_BBlue_41: 361876042
+      DollBase_Acessories_Color_BBlue_42: 605652660
+      DollBase_Acessories_Color_BBlue_43: -22622367
+      DollBase_Acessories_Color_BBlue_44: 708677768
+      DollBase_Acessories_Color_BBlue_46: -1795083277
+      DollBase_Acessories_Color_BBlue_47: -1767242795
+      DollBase_Acessories_Color_BBlue_48: 956315274
+      DollBase_Acessories_Color_BBlue_6: 737635293
+      DollBase_Acessories_Color_BBlue_8: -1181797261
+      DollBase_Acessories_Color_BBlue_9: -2095243234
+      Earrings1_Blue: 133106276
+      Earrings2_Blue: -517336722
+      Eyes: -821368250
+      Eyes1_Blue: -208532915
+      Eyes3_Blue: 624822831
+      Eyes4_Blue: -351581479
+      Hair1_Blue: -504644820
+      Hair2_Blue: 1405449245
+      Hair3_Blue: -45171285
+      Hair4_Blue: 2132401044
+      Lip1_Blue: -1355620013
+      Lip2_Blue: -965429974
+      Lip3_Blue: -1207242428
+      Lip4_Blue: -588803074
+      Nose3_Blue: 500771520
+      Shoes_Blue: 323793716
+      Watch_Blue: -642215755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

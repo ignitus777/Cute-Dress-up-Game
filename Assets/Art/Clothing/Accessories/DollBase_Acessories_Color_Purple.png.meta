@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: fcdf3c17e296579419b19cfc09788c93
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hair1_Purple
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3033
+        width: 671
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f594d94511c8b42bfac8dc539e0762
+      internalID: -479922817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes1_Purple
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3498
+        width: 279
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895844c661666947a2cf201d8e11e22
+      internalID: 919891868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes2_Purple
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 3456
+        width: 236
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7301ee758c59e47b2f25dff5121dca
+      internalID: 1941746330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes3_Purple
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3491
+        width: 282
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36db0f7b3548a454fbd49c2e5fb2fbb2
+      internalID: 1520248394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes4_Purple
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3524
+        width: 238
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60165b2605c3979448d7347ef85bf0bd
+      internalID: 1047927189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earrings1_Purple
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3513
+        width: 329
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ba260f951d21459cbb0ea2e783386
+      internalID: 1722392370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nose3_Purple
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 3325
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b590092113bc43b47ab8dd2f5f20aba7
+      internalID: 160203336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earrings2_Purple
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3231
+        width: 306
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa53186caf021e488b943a7c8d7b2ff
+      internalID: 1096563071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips4_Purple
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 3210
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0702c8c3beada40a99c0b537e3228f
+      internalID: -235258208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips1_Purple
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 3203
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b753137ec99c6043820a6b9612de8dd
+      internalID: 1189430826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips2_Purple
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3179
+        width: 158
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419faeacda4043940b67dfe7acfefde0
+      internalID: -2027978709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips3_Purple
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 3180
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18afd17ca29baad4ca460bde2e398830
+      internalID: -532513911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Purple
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2430
+        width: 408
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf42ac5cdb648e419896b6b3caf4d96
+      internalID: 1477252150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch_Purple
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 2731
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff19c4a420eef489085262a1949a7b
+      internalID: -2063696910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair3_Purple
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1593
+        width: 402
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c31fcebfcf8940bd7e454bc62ebaf
+      internalID: -891010926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Braclet_Right_Purple
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 2121
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e106f7b4cbee718468689414436b99ae
+      internalID: -1748709168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Braclet_Left_Purple
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2014
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daf4d0cd777eb945a99bbb63d21dfcb
+      internalID: -1657140692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair4_Purple
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 236
+        width: 583
+        height: 1177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f455f1b856f357740ba16dbfccddcda8
+      internalID: -1804040886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoes_Purple
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1381
+        width: 768
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3535a2d5d544f43bed744a7eefa4ce
+      internalID: 1282227093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_Purple
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 182
+        width: 811
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0e05279fb3fa49988cf2681850039
+      internalID: 633285737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollBase_Acessories_Color_Purple_41
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f649dbf103e9347bc38f41db3640e0
+      internalID: 901260979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boots_Purple: 633285737
+      Braclet_Left_Purple: -1657140692
+      Braclet_Right_Purple: -1748709168
+      DollBase_Acessories_Color_Purple_10: -2086572042
+      DollBase_Acessories_Color_Purple_13: -2113453638
+      DollBase_Acessories_Color_Purple_14: -2093525675
+      DollBase_Acessories_Color_Purple_19: -799398296
+      DollBase_Acessories_Color_Purple_2: -827371394
+      DollBase_Acessories_Color_Purple_21: -1680940945
+      DollBase_Acessories_Color_Purple_23: 1050544406
+      DollBase_Acessories_Color_Purple_24: 711633688
+      DollBase_Acessories_Color_Purple_25: 2033394905
+      DollBase_Acessories_Color_Purple_29: -2064740474
+      DollBase_Acessories_Color_Purple_30: -615642842
+      DollBase_Acessories_Color_Purple_31: -789897522
+      DollBase_Acessories_Color_Purple_32: 1213529880
+      DollBase_Acessories_Color_Purple_34: 937675074
+      DollBase_Acessories_Color_Purple_36: -497023061
+      DollBase_Acessories_Color_Purple_38: -830418305
+      DollBase_Acessories_Color_Purple_39: 1851237962
+      DollBase_Acessories_Color_Purple_4: -1297952597
+      DollBase_Acessories_Color_Purple_40: 1220883018
+      DollBase_Acessories_Color_Purple_41: 901260979
+      DollBase_Acessories_Color_Purple_6: -576469336
+      DollBase_Acessories_Color_Purple_8: 1908470753
+      Earrings1_Purple: 1722392370
+      Earrings2_Purple: 1096563071
+      Eyes1_Purple: 919891868
+      Eyes2_Purple: 1941746330
+      Eyes3_Purple: 1520248394
+      Eyes4_Purple: 1047927189
+      Hair1_Purple: -479922817
+      Hair2_Purple: 1477252150
+      Hair3_Purple: -891010926
+      Hair4_Purple: -1804040886
+      Lips1_Purple: 1189430826
+      Lips2_Purple: -2027978709
+      Lips3_Purple: -532513911
+      Lips4_Purple: -235258208
+      Nose3_Purple: 160203336
+      Shoes_Purple: 1282227093
+      Watch_Purple: -2063696910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

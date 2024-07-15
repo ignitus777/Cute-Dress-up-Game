@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: b994ebd9c5876a142b3df344bcda8d14
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hair1_Pink
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3033
+        width: 671
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d3e770ae88384ba83c93102261399
+      internalID: 662693943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes1_Pink
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3498
+        width: 279
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c490dac96f074a80627cd6ee67f8d
+      internalID: -521427701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes2_Pink
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 3456
+        width: 235
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1005a1cccf03c49b13075ef22126b3
+      internalID: -1623502325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes3_Pink
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3491
+        width: 282
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36486947705072489b766f5c0742ba4
+      internalID: -603377348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyes4_Pink
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3524
+        width: 239
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d81e4a9b0098a1459ca99223537039f
+      internalID: -2083329007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earrings1_Pink
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3513
+        width: 327
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea30cf4b65caac4e931f39a62703c8c
+      internalID: 1603791177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nose3_Pink
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 3325
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbbb992c6f159b4baad7ab9822a2a52
+      internalID: -1889550702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earrings2_Pink
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3231
+        width: 308
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a270c2a5009b909408400a48459d48af
+      internalID: -1745064026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips4_Pink
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 3210
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbbbbd1f8b43dc4c9fa3b9e4d757559
+      internalID: 483949914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips1_Pink
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 3203
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece74a77f9823c3448d0f21fbfe89c16
+      internalID: 2075974118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips2_Pink
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3179
+        width: 158
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dd1a6e10ecbc848b72288893eb1a41
+      internalID: 2013479643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lips3_Pink
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 3180
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2230c707ef7ae0043b1f334b2d375b1f
+      internalID: -1498490039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Pink
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2430
+        width: 408
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbade1246f13a564e9459362e93505d0
+      internalID: -447432670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch_Pink
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 2728
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee27b7191dc834cb84dec7411a9142
+      internalID: -508299700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair3_Pink
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1590
+        width: 402
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2edbbd69c9d1f469de95f090c3d329
+      internalID: -1809043079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Braclet_Right_Pink
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 2121
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb1b7def972de84dadd3442a2743c23
+      internalID: -1013858048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Braclet_Left_Pink
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2014
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02201c1891943b84a8059abb5ffbcf87
+      internalID: 1378307030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair4_Pink
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 234
+        width: 584
+        height: 1179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322797b7b600534689865a1571d2719
+      internalID: 1763709474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoes_Pink
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1375
+        width: 737
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de068bde0a9e74a81657c748e99c04
+      internalID: -856492050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boots_Pink
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 182
+        width: 805
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd34110ef3d667428f72871f9762e7a
+      internalID: -990540674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollBase_Acessories_Color_Pink_41
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970e2ed458435445ad69af492a185e5
+      internalID: 230646772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boots_Pink: -990540674
+      Braclet_Left_Pink: 1378307030
+      Braclet_Right_Pink: -1013858048
+      DollBase_Acessories_Color_Pink_10: 701330702
+      DollBase_Acessories_Color_Pink_13: 1176873480
+      DollBase_Acessories_Color_Pink_14: 226241596
+      DollBase_Acessories_Color_Pink_19: -1925547362
+      DollBase_Acessories_Color_Pink_2: -670943131
+      DollBase_Acessories_Color_Pink_21: -483711160
+      DollBase_Acessories_Color_Pink_23: -782499092
+      DollBase_Acessories_Color_Pink_24: -1183048419
+      DollBase_Acessories_Color_Pink_25: -813964062
+      DollBase_Acessories_Color_Pink_29: 180985768
+      DollBase_Acessories_Color_Pink_30: 555344646
+      DollBase_Acessories_Color_Pink_31: 719957519
+      DollBase_Acessories_Color_Pink_32: 1780850988
+      DollBase_Acessories_Color_Pink_34: 295424444
+      DollBase_Acessories_Color_Pink_36: 922545347
+      DollBase_Acessories_Color_Pink_38: 2075915891
+      DollBase_Acessories_Color_Pink_39: 58206968
+      DollBase_Acessories_Color_Pink_4: 54532735
+      DollBase_Acessories_Color_Pink_40: 496158003
+      DollBase_Acessories_Color_Pink_41: 230646772
+      DollBase_Acessories_Color_Pink_6: -314052275
+      DollBase_Acessories_Color_Pink_8: -1944976676
+      Earrings1_Pink: 1603791177
+      Earrings2_Pink: -1745064026
+      Eyes1_Pink: -521427701
+      Eyes2_Pink: -1623502325
+      Eyes3_Pink: -603377348
+      Eyes4_Pink: -2083329007
+      Hair1_Pink: 662693943
+      Hair2_Pink: -447432670
+      Hair3_Pink: -1809043079
+      Hair4_Pink: 1763709474
+      Lips1_Pink: 2075974118
+      Lips2_Pink: 2013479643
+      Lips3_Pink: -1498490039
+      Lips4_Pink: 483949914
+      Nose3_Pink: -1889550702
+      Shoes_Pink: -856492050
+      Watch_Pink: -508299700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

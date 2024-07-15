@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Base
+  - Shoes
+  - Bottoms
+  - Shirts
+  - Face
+  - Hair
+  - Jewlery
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 3005316983
+    locked: 0
+  - name: shoes
+    uniqueID: 2611084013
+    locked: 0
+  - name: bottoms
+    uniqueID: 3294365003
+    locked: 0
+  - name: Shirts
+    uniqueID: 3457752049
+    locked: 0
+  - name: Face
+    uniqueID: 2795243793
+    locked: 0
+  - name: Hair
+    uniqueID: 2349010999
+    locked: 0
+  - name: jewlery
+    uniqueID: 2215675959
+    locked: 0
